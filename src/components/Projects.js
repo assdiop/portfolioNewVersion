@@ -21,7 +21,7 @@ export const Projects = () => {
       imgUrl: test3,
     },
     {
-      title: "Business Startup",
+      title: "Guindiko",
       description: "Design & Development",
       imgUrl: gnote,
     },
